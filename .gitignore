@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/build/
+/Procyon.CompilerTools/target/
+/Procyon.Decompiler/target/
+/Procyon.Reflection/target/
